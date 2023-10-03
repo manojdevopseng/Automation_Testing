@@ -14,8 +14,8 @@ dpkg -i /tmp/google-chrome-stable_current_amd64.deb
 apt-get install -yf
 
 # Set AWS access key ID and secret access key
-aws configure set aws_access_key_id AKIAYLS6COEZNRHO435D
-aws configure set aws_secret_access_key JKlfC1GvQWxzcNPtnB3Kn3HcQwrFIZPkApq6E5KT
+aws configure set aws_access_key_id #Your_Secrete_ID
+aws configure set aws_secret_access_key #Your_Secret_Key
 aws configure set default.region ap-south-1
 
 # Run your Python script
