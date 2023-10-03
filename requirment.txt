@@ -1,0 +1,11 @@
+I am working on a project with automation testing.
+
+I want to build an ecs container with selenium grid that will perform testing on my application and i want to following task should be done after testing.
+
+- Screenshot of test results should be store in amazon S3
+- A logs file should be uploded on cloudWatch
+_ An Email should be trigger once cloudwatch received the logs and also attach that logs into Email
+
+Can you tell me how to do this , if possible for you to show me scripts as well
+
+
